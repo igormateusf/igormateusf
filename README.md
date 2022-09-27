@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @igormateusf
 - 👀 I’m interested in technology and programming
-- 🌱 I’m currently learning Java, Java Script and Database with SQL
-- 💞️ I’m looking to collaborate as an intern in a dev company
+- 🌱 I’m currently learning PHP, Java, HTML and Database with SQL
+- 💞️ I am a dev intern at the company BR Aço and I take care of the backend
 - 📫 Contact:
       Email: igorfrancadiniz@gmail.com
       Linkedin: https://www.linkedin.com/in/igor-mateus-2304741a4/
