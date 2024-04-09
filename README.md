@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @igormateusf
-- 👀 I’m interested in technology and programming
-- 🌱 I’m currently learning PHP, Java, HTML and Database with SQL
+- 👀 I’m interested in technology, programming and cibersecurity
+- 🌱 I’m currently learning PHP with Laravel and Database with SQL
 - 📫 Contact:
       Email: igorfrancadiniz@gmail.com
       Linkedin: https://www.linkedin.com/in/igor-mateus-2304741a4/
